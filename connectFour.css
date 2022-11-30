@@ -1,12 +1,13 @@
-h1{
+.header{
     text-align: center;
-    font-style: bold, underline;
-    font-size: 60px;
-    color: white;
+    font-style: bold;
+    font-size: 40px;
+     color: white; 
+    background-color: rgb(5, 9, 109);
 }
 
 body{
-    background-image: url("https://www.pathstoliteracy.org/wp-content/uploads/2022/04/Connect_Four.jpg");
+    background-image: url("https://img.freepik.com/free-vector/board-game-collection_23-2148681800.jpg?w=2000");
     background-size: 20%;
  
 }
